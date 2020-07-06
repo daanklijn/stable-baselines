@@ -61,6 +61,7 @@ Documentation:
 - Added Slime Volleyball project (@hardmaru)
 - Added a table of the variables accessible from the ``on_step`` function of the callbacks for each algorithm (@PartiallyTyped)
 - Fix typo in README.md (@ColinLeongUDRI)
+- Added ``stable_baselines\deepq\experiments\enjoy_atari.py`` (@daanklijn)
 
 Release 2.10.0 (2020-03-11)
 ---------------------------
